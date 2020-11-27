@@ -1,8 +1,9 @@
- <p align="center">
+# WasteSify  
+<p align="center">
 <img src="https://i.imgur.com/RWnBovg.png" width="500" height="500" />
 </p>
 
-# WasteSify  
+
 <p align="center">
 <img src="https://i.imgur.com/AivedJi.png" width="400" height="400" />
 </p>
@@ -13,6 +14,14 @@
 <p align="center">
 <img src="https://i.imgur.com/E5xvBM6.png" width="900" height="512" />
 </p>
+
+# Demo
+
+<p align="center">
+<img src="https://i.imgur.com/PyYqzXf.png" width="900" height="512" />
+</p>
+
+
 
 ## Credits
 Muhammad Umair Adil: https://github.com/umair13adil/tensorflow_lite_flutter
