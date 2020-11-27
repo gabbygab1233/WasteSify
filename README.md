@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.com/gabbygab1233/WasteSify.svg)
+[![HitCount](http://hits.dwyl.com/gabbygab1233/https://githubcom/gabbygab1233/WasteSify.svg)](http://hits.dwyl.com/gabbygab1233/https://githubcom/gabbygab1233/WasteSify)
 
 # WasteSify  
 <p align="center">
