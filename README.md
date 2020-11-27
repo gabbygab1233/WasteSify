@@ -9,14 +9,14 @@
 </p>
 
                                                                
-   **WasteSify** is a A.I Based Mobile Application that classify biodegradable / non biodegradable waste in real time. Solid waste management systems cover all actions that seek to reduce the negative impacts on health, environment and economy. Developing countries are seriously facing the associated problems in collection, transportation and disposal of communal solid waste. Based on the survey conducted by ( Sudipta Bhawal Mukherji ,Makiko Sekiyama , Takashi Mino, Bharati Chaturvedi. Resident Knowledge and Willingness to Engage in Waste Management in Delhi, India ). **It shows that 60% of residents do not know the difference between biodegradable and non-biodegradable waste, and only 2% of them segregate waste. Fifty-eight percent of respondents reported that the waste collector mixes the segregated waste, 97% of respondents reported that they sold items to an itinerant waste buyer, and 87% of households are covered by doorstep waste collection services**. WasteSify will help them to segragate  their waste properly.
+   **WasteSify** is a A.I Based Mobile Application that classify biodegradable / non biodegradable waste in real time. Solid waste management systems cover all actions that seek to reduce the negative impacts on health, environment and economy. Developing countries are seriously facing the associated problems in collection, transportation and disposal of communal solid waste. Based on the survey conducted by ( Sudipta Bhawal Mukherji ,Makiko Sekiyama , Takashi Mino, Bharati Chaturvedi. Resident Knowledge and Willingness to Engage in Waste Management in Delhi, India ). **It shows that 60% of residents do not know the difference between biodegradable and non-biodegradable waste, and only 2% of them segregate waste. Fifty-eight percent of respondents reported that the waste collector mixes the segregated waste, 97% of respondents reported that they sold items to an itinerant waste buyer, and 87% of households are covered by doorstep waste collection services**. WasteSify will help people to segregate and differentiate between biodegradable and non-biodegradable
 
 <p align="center">
 <img src="https://i.imgur.com/E5xvBM6.png" width="900" height="512" />
 </p>
 
 # Demo
-
+Video Demo: https://www.youtube.com/watch?v=uYddMWPaI8s&feature=youtu.be
 <p align="center">
 <img src="https://i.imgur.com/PyYqzXf.png" width="900" height="512" />
 </p>
