@@ -1,3 +1,5 @@
+![HitCount](http://hits.dwyl.com/gabbygab1233/WasteSify.svg)
+
 # WasteSify  
 <p align="center">
 <img src="https://i.imgur.com/RWnBovg.png" width="500" height="500" />
