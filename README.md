@@ -3,12 +3,14 @@
 # WasteSify  
 
 <p align="center">
-<img src="https://i.imgur.com/AivedJi.png" width="400" height="400" />
+<img src="https://i.imgur.com/RWnBovg.png" width="500" height="500" />
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/RWnBovg.png" width="500" height="500" />
+<img src="https://i.imgur.com/AivedJi.png" width="400" height="400" />
 </p>
+
+
 
 
 
