@@ -24,7 +24,7 @@
 # Demo
 Video Demo: https://www.youtube.com/watch?v=uYddMWPaI8s&feature=youtu.be
 <p align="center">
-<img src="https://i.imgur.com/PyYqzXf.png" width="900" height="512" />
+<img src="https://i.imgur.com/CE3QwoI.png" width="900" height="512" />
 </p>
 
 
