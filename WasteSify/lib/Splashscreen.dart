@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:WasteSify/main_page.dart';
+import 'package:WasteSify/home_page.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -15,7 +16,7 @@ class _SplashScreenState extends State<SplashScreen> {
       () {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => MainPage()),
+          MaterialPageRoute(builder: (context) => MyHomePage()),
         );
       },
     );

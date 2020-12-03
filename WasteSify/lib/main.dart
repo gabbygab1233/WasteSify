@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-//import 'package:tensorflow_lite_flutter/screens/detect_screen.dart';
 import 'package:WasteSify/Splashscreen.dart';
 import 'package:WasteSify/screens/detect_screen.dart';
-import 'package:WasteSify/main_page.dart';
+import 'package:WasteSify/home_page.dart';
 
 void main() => runApp(MyApp());
 
